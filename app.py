@@ -1,4 +1,4 @@
-from defs import name, options, finish, choice
+from defs.choice import choiceOp
 import os
 
 def main():
