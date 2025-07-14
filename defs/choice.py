@@ -1,4 +1,4 @@
-from finish import finishApp
+from defs.finish import finishApp
 
 def choiceOp():
     opcao_escolhida = int(input('Escolha uma opção: '))
